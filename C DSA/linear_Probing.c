@@ -21,7 +21,7 @@ void insert()
         h[index]=key;
          break;
      }
-	 else continue;
+	 
 
     }
 
