@@ -22,7 +22,6 @@ void insert()
          break;
      }
 	 
-
     }
 
     if(i == TABLE_SIZE)
